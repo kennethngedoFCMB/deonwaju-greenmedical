@@ -1,6 +1,7 @@
 # deon_greenmed
 
 A new Flutter application.
+A new Flutter project. An app that helps to keep reminders for appointments to the doctor, and does so 10 minutes before and a minute before time, The app starts from the log in screen that onboards the user, on to a welcome page that shows the user what it can offer as a medical app.Features like maps to the hospital and emergency phone no. as well as the main goal of fixing appointments with the doctor.
 
 ## Getting Started
 
